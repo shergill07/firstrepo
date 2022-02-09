@@ -1,1 +1,2 @@
 New test code file.
+Second line of code.
